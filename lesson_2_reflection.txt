@@ -11,6 +11,7 @@ What value do you think it offers?
     directory holds all the files
   The staging area allows you to gather the files that logically tie
     together and commit them as a group
+  this is SO HARD!!!
 
 How can you use the staging area to make sure you have one commit per logical
 change?
